@@ -1,0 +1,39 @@
+PODS:
+  - ali_auth (1.2.8):
+    - Flutter
+    - MBProgressHUD
+    - MJExtension
+    - SDWebImage
+  - Flutter (1.0.0)
+  - MBProgressHUD (1.2.0)
+  - MJExtension (3.4.2)
+  - SDWebImage (5.19.2):
+    - SDWebImage/Core (= 5.19.2)
+  - SDWebImage/Core (5.19.2)
+
+DEPENDENCIES:
+  - ali_auth (from `.symlinks/plugins/ali_auth/ios`)
+  - Flutter (from `Flutter`)
+
+SPEC REPOS:
+  trunk:
+    - MBProgressHUD
+    - MJExtension
+    - SDWebImage
+
+EXTERNAL SOURCES:
+  ali_auth:
+    :path: ".symlinks/plugins/ali_auth/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  ali_auth: 1c942ffe81172669ec11588a232b16c0bba4b574
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  MJExtension: e97d164cb411aa9795cf576093a1fa208b4a8dd8
+  SDWebImage: dfe95b2466a9823cf9f0c6d01217c06550d7b29a
+
+PODFILE CHECKSUM: 819463e6a0290f5a72f145ba7cde16e8b6ef0796
+
+COCOAPODS: 1.15.2
